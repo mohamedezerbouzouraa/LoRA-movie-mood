@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+lora-env/
+
+# Training output (large, regenerate with `python train.py`)
+results/
+
+# Keep the tiny adapter out of git by default; remove this line if you want to publish it
+imdb-lora-adapter/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
