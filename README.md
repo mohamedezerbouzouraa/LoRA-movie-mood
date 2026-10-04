@@ -1,6 +1,6 @@
 # DistilBERT + LoRA Sentiment Classifier
 
-My first project using LoRA, i've been studying and going deep into LoRA concepts and how it exactly works. 
+My first project using LoRA, i've been studying and going deep into LoRA concepts and how it actually works. 
 You can see below everything about the project 
 
 Fine-tune [DistilBERT](https://huggingface.co/distilbert-base-uncased) on the IMDb movie-review dataset using **LoRA** (Low-Rank Adaptation), then test it in a small web page.
